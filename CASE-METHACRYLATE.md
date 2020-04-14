@@ -11,3 +11,5 @@ La caja puede fabricarse también de dos formas distintas mediante corte láser 
 Reespirator 2020 consta de una caja diseñada para fabricarse mediante corte láser modificados a partir de los diseños originales de Reesistencia Team y que contiene casi todos elementos del respirador en su interior. 
 
 Los archivos para su fabricación mediante corte láser o fresado (CNC) se encuentra en el directorio [/files/cut](https://gitlab.com/reespirator/reespirator2020/-/tree/master/files/cut "files/cut"), estamos trabajando para ofrecerlos en archivos separados y en varios formatos.
+
+En los archivos compartidos se encuentran varias versiones de tapa para el hueco de la pantalla en función del tipo de display utilizado.
