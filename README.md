@@ -33,9 +33,9 @@ Antes de montar un respirador lea toda la documentación posible e infórmese bi
 
 
 ## [Estructura básica](https://gitlab.com/reespirator/reespirator2020/-/blob/master/case/CASE.md)
-Reespirator 2020 consta de una [caja](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/CASE.md) diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
+Reespirator 2020 consta de una [caja](https://gitlab.com/reespirator/reespirator2020/-/blob/master/case/CASE.md) diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
 
-El [sistema neumático](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/NEUMATIC.md) del Reespirator 2020 está basado en un sistema Jackson-Rees. Reespirator 2020 utiliza además una serie de válvulas, sensores de presión y caudal y tubuladuras para hacer llegar al aire a los pulmones del paciente.
+El [sistema neumático](https://gitlab.com/reespirator/reespirator2020/-/blob/master/neumatic/NEUMATIC.md) del Reespirator 2020 está basado en un sistema Jackson-Rees. Reespirator 2020 utiliza además una serie de válvulas, sensores de presión y caudal y tubuladuras para hacer llegar al aire a los pulmones del paciente.
 ## [Sistema neumático](https://gitlab.com/reespirator/reespirator2020/-/blob/master/neumatic/NEUMATIC.md)
 
 ## [Mecánica](https://gitlab.com/reespirator/reespirator2020/-/blob/master/mechanic/MECHANIC.md)
@@ -48,7 +48,7 @@ Además de la electrónica de control se emplea una electrónica adicional como 
 ## [Firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md)
 El sistema de control necesita ser programado con un [firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md) que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
-## [Manual de usuario](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MANUAL.md)
+## [Manual de usuario](https://gitlab.com/reespirator/reespirator2020/-/blob/master/MANUAL.md)
 El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento del paciente.
 
 ## Historia y principales cambios de esta versión
