@@ -1,6 +1,8 @@
 ## Información médica básica del dispositivo Reespirator 2020
 
-El dispositivo se está diseñando para intentar cumplir los siguientes modos de funcionamiento:
+El dispositivo se está diseñando para intentar cumplir las siguientes [especificaciones clínicas](https://foro.coronavirusmakers.org/index.php?p=/discussion/44/especificaciones-clinicas-de-un-respirador-util-en-esta-crisis#latest)
+
+Los dispositivos que estamos prototipando podrán funcionar en los siguientes modos. Los dos primeros están completos y se está trabajando para finalizar el tercero:
 
 **Modo controlado**
 La máquina suple totalmente la ventilación del paciente pudiendo controlar tanto el volumen como la presión, sensando la medida contrapuesta.
