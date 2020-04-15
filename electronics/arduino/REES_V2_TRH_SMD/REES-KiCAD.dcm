@@ -1,0 +1,111 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSB044N08NN3
+D 90A Id, 80V Vds, 4.4mOhm Rds, N-Channel MOSFET, DirectFET MN
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-BSB044N08NN3_G-DS-v02_00-en.pdf?fileId=db3a30435819ae2e012e385cde7b70d4
+$ENDCMP
+#
+$CMP BSB056N10NN3
+D 83A Id, 100V Vds, 5.1mOhm Rds, N-Channel MOSFET, DirectFET MN
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-BSB056N10NN3_G-DS-v02_05-en.pdf?fileId=db3a30442e152e91012e390b9a631459
+$ENDCMP
+#
+$CMP Barrel_Jack
+D DC Barrel Jack
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+$CMP Buzzer
+D Buzzer, polarized
+K quartz resonator ceramic
+F ~
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP IRF6644
+D 57A Id, 100V Vds, 13mOhm Rds, N-Channel MOSFET, DirectFET MN
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-IRF6644-DS-v01_01-EN.pdf?fileId=5546d462533600a4015355ec47ac1a4f
+$ENDCMP
+#
+$CMP IRF6646
+D 12A Id, 80V Vds, 9.5mOhm Rds, N-Channel MOSFET, DirectFET MN
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf6646pbf.pdf?fileId=5546d462533600a4015355ec5f071a55
+$ENDCMP
+#
+$CMP IRF6648
+D 86A Id, 60V Vds, 7mOhm Rds, N-Channel MOSFET, DirectFET MN
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-IRF6648-DS-v01_02-EN.pdf?fileId=5546d462533600a4015355ec6e561a59
+$ENDCMP
+#
+$CMP IRF6662
+D 8.3A Id, 100V Vds, 22mOhm Rds, N-Channel MOSFET, DirectFET MN
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf6662pbf.pdf?fileId=5546d462533600a4015355ec7edc1a5d
+$ENDCMP
+#
+$CMP IRF6668
+D 55A Id, 80V Vds, 15mOhm Rds, N-Channel MOSFET, DirectFET MN
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf6668pbf.pdf?fileId=5546d462533600a4015355ec96b91a64
+$ENDCMP
+#
+$CMP IRF7171M
+D 93A Id, 100V Vds, 6.5mOhm Rds, N-Channel MOSFET, DirectFET MN
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf7171mpbf.pdf?fileId=5546d462533600a4015355f1326f1ad6
+$ENDCMP
+#
+$CMP IRLZ44N
+D 42A Id, 55V Vds, 27mOhm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F https://www.bucek.name/pdf/irlr2905.pdf
+$ENDCMP
+#
+$CMP Jack-DC
+D DC Barrel Jack
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP R_POT
+D Potentiometer
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP Rotary_Encoder_Switch
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+#End Doc Library

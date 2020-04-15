@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name REES)(type KiCad)(uri "$(KIPRJMOD)/REES.pretty")(options "")(descr ""))
+  (lib (name Arduino)(type KiCad)(uri "$(KIPRJMOD)/libraries/Arduino.pretty")(options "")(descr ""))
+  (lib (name ultralibrarian)(type KiCad)(uri ${KIPRJMOD}/libraries/ultralibrarian.pretty)(options "")(descr ""))
+)

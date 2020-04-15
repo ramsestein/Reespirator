@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name REES-eagle-import)(type Legacy)(uri ${KIPRJMOD}/REES-eagle-import.lib)(options "")(descr ""))
+  (lib (name REES-rescue)(type Legacy)(uri ${KIPRJMOD}/REES-rescue.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/libraries/arduino.lib)(options "")(descr ""))
+  (lib (name REES-KiCAD)(type Legacy)(uri ${KIPRJMOD}/REES-KiCAD.lib)(options "")(descr ""))
+  (lib (name Diode)(type Legacy)(uri ${KIPRJMOD}/Diode.lib)(options "")(descr ""))
+  (lib (name ultralibrarian)(type Legacy)(uri ${KIPRJMOD}/libraries/ultralibrarian.lib)(options "")(descr ""))
+  (lib (name SN74LV1T34)(type Legacy)(uri ${KIPRJMOD}/libraries/SN74LV1T34.lib)(options "")(descr ""))
+)
