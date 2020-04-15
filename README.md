@@ -41,7 +41,7 @@ El [sistema neumático](https://gitlab.com/reespirator/reespirator-doc/-/blob/ma
 ## [Mecánica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MECHANIC.md)
 El [sistema mecánico](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MECHANIC.md) pretende realizar los movimientos necesarios para realizar las maniobras de inspiración y espiración forzada del paciente mediante elementos mecánicos sustituyendo al personal humano que utilizaría el sistema de ventilación.
 
-## [Electrónica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/ELECTRONICS.md)
+## [Electrónica](https://gitlab.com/reespirator/reespirator2020/electronics/-/blob/master/ELECTRONICS.md)
 La [electrónica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/ELECTRONICS.md) de control gestiona el movimiento del motor y los sensores que permiten realizar un control de lazo cerrado automatizado del sistema.
 Además de la electrónica de control se emplea una electrónica adicional como interfaz de usuario que permite monitorizar diferentes señales del respirador y modificar en tiempo real diferentes configuraciones del mismo.
 
