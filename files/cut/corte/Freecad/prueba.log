@@ -1,0 +1,70 @@
+
+-------------------Versión del conversor de importación de STEP AP203/AP214 ----------------------
+
+
+               Versión 10.04.00.46 para MicroStation V8.
+
+-------------------Registro de importación de STEP AP203/AP214----------------------
+
+
+    Archivo STEP AP203/AP214:  C:\Users\disenator\CloudStation\TRANSITORIOS\reespirator2020\files\cut\corte\Freecad\prueba.stp
+        Archivo de diseño:  C:\Users\disenator\CloudStation\TRANSITORIOS\RESPIRATOR\V4\PRUEBAS.dgn
+               Fecha: 04/16/2020
+Hora: 17:57:16
+
+------------------------------------------------------------------------
+
+ 
+ funcName:read_P203_Model # EntityId:-1 # igonal entity types:
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_Geometric_Representation_Item # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # failed # e:\Builds\pp10040046\Source\MstnPlatform\PPModules\Interchange\step\apps\ap203\ap203in\ap203inMdlMain.cpp 1246
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:11 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:15 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:19 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:23 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:27 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:31 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:35 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:39 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:43 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:47 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:51 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:55 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ funcName:stepIn_processP203_genericShapeRepresentation # EntityId:59 # Entity type is axis2_placement_3d # igonal in function # not handled here -550528720
+ Ending time 17:57:17
+
+
