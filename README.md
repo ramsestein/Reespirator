@@ -48,12 +48,15 @@ Además de la electrónica de control se emplea una electrónica adicional como 
 ## [Firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md)
 El sistema de control necesita ser programado con un [firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md) que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
+## [Simulación](https://gitlab.com/reespirator/reespirator2020/-/blob/master/simulation/SIMULATION.md)
+En este apartado se consideran los fundamentos del sistema de control en lazo cerrado para los distintos modos de control que permite el Reespirator 2020 y que permiten la [simulación numérica](https://gitlab.com/reespirator/reespirator2020/-/blob/master/simulation/SIMULATION.md) del comportamiento del sistema.
+
 ## [Manual de usuario](https://gitlab.com/reespirator/reespirator2020/-/blob/master/MANUAL.md)
 El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento del paciente.
 
 ## Historia y principales cambios de esta versión
 
-El proyecto Reespirator2020 toma como punto de partida el proyecto Reespirator 23 (o 24) v3 de **Reesistencia Team** a partir del cual realizamos un fork.
+El proyecto Reespirator2020 toma como punto de partida el proyecto Reespirator 23 (o 24) v3 de **Reesistencia Team** a partir del cual realizamos un fork, el repositorio original está en [https://gitlab.com/reesistencia](https://gitlab.com/reesistencia).
 
 En esta nueva versión se incluyen principalmente los siguientes cambios:
 
@@ -61,6 +64,8 @@ En esta nueva versión se incluyen principalmente los siguientes cambios:
  - La recuperación del interfaz básico con LCD de 20x04 y elementos sencillos de control (4 pulsadores y un encoder con pulsador).
  - Establecimiento y documentación de una interfaz de comunicación serie que permite la utilización de sistemas (en adelante llamados Display+) de visualización, control y conectividad, que pueden ser utilizados como accesorios para aportar mejor usabilidad al sistema.
  - Se trabaja para estandarizar y popularizar los sensores y electro-válvulas para utilizar partes (comerciales o diseñadas) posibles de conseguir con la situación de emergencia actual y a precios accesibles.
+ - Posibilidad de usar diferentes interfaces de usuario.
+ - Opción de utilizar un microcontrolador tipo Arduino o un autómata PLC.
 
 ## Repositorio temporal de trabajo para el código de Reespirator2020
 
