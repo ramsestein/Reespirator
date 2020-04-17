@@ -6,9 +6,9 @@ En el modelo de Reespirator 2020 con PLC en el caso de usar un autómata de Siem
 
 ![Pantalla de inicio](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/language.jpg "Pantalla de inicio de Reespirator 2020")
 
-![Gráficas](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/graficas.jpg "Pantalla de gráficas")
+![Gráficas](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/gráficas.jpg "Pantalla de gráficas")
 
-![Datos del paciente](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/graficas.jpg "Datos del paciente")
+![Datos del paciente](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/datos-del-paciente.jpg "Datos del paciente")
 
 
 ![Parámetros](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/parámetros.jpg "Parámetros")
