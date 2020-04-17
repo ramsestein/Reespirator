@@ -2,7 +2,7 @@
 
 El dispositivo se está diseñando para intentar cumplir las siguientes [especificaciones clínicas](https://foro.coronavirusmakers.org/index.php?p=/discussion/44/especificaciones-clinicas-de-un-respirador-util-en-esta-crisis#latest)
 
-Los dispositivos que estamos prototipando podrán funcionar en los siguientes modos. Los dos primeros están completos y se está trabajando para finalizar el tercero:
+Los dispositivos que estamos prototipando podrán funcionar en los siguientes modos. *Los dos primeros están completos y se está trabajando para finalizar los otros dos.*
 
 **Modo controlado**
 La máquina suple totalmente la ventilación del paciente pudiendo controlar tanto el volumen como la presión, sensando la medida contrapuesta.
@@ -27,5 +27,5 @@ La modalidad de BIPAP representa un aprovechamiento del sistema de trigger imple
 
 El ventilador permite igualar los parámetros de PIP y PEEP, lo que permite la utilización del sistema como máquina de CPAP aplicando únicamente una PEEP, en esta modalidad dada la construcción de la máquina se inactiva el sistema de trigger y elimina las ventilaciones de rescate.
 
-Modo de reclutamiento alveolar
+**Modo de reclutamiento alveolar**
 Se establece un modo de uso mediante un botón de emergencia, destinado a realizar una operación clínica de reclutamiento alveolar. Mediante dicha maniobra, el sistema aplicará una presión constante de inspiración de 40 cmH2O durante un tiempo máximo de 40 segundos. Una vez entrado en este modo, se activará la alarma acústica pertinente. Se podrá volver al modo de funcionamiento normal, antes de los 40 segundos, a través de la interfaz táctil de la máquina, según el criterio clínico del médico usuario.

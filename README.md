@@ -15,28 +15,30 @@ La presente documentación **NO PERMITE CONSTRUIR UN RESPIRADOR FINAL**, sólo s
 ## Info
 *¿Qué es Reespirator 2020?*
 
-El dispositivo Reespirator 2020 es un prototipo de sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de [Síndrome de Distrés Respiratorio Agudo](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_dificultad_respiratoria_aguda) o SDRA.
+El dispositivo Reespirator 2020 es un prototipo de sistema respirador de emergencia con elementos disponibles por la mayoría de las personas en cualquier parte del mundo, de rápida construcción y con la capacidad para mantener constantes ventilatorias aceptables en un paciente afecto de [Síndrome de Distrés Respiratorio Agudo](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_dificultad_respiratoria_aguda) o SDRA que esperamos puede ser aplicable a los pacientes con COVID-19.
 
-Aunque el origen de Reespirator es España, debido a las regulaciones y validaciones necesarias para los productos médicos, y aunque Reespirator 23 de Reesistencia Team en el que se ha basado este nuevo diseño, ha superado varias pruebas preclínicas con animales, y de compatibilidad electromagnética, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); esperamos que este y otros diseños puedan ser útiles en otros países.
+Aunque el origen de Reespirator es España, debido a las regulaciones y validaciones necesarias para los productos médicos, y aunque Reespirator 23 de [Reesistencia Team](https://gitlab.com/reesistencia), en el que se basó inicialmente este nuevo diseño, ha superado varias pruebas preclínicas con animales, y de compatibilidad electromagnética, suponemos que este dispositivo nunca se llegará a fabricar masivamente en España, dónde afortunadamente lo peor de la crisis del COVID-19 parece que ya ha pasado (08/04/20); esperamos que este y otros diseños puedan ser útiles en otros países.
 
 Aún así no nos damos por vencidos y seguiremos desarrollando el proyecto al menos en 2 versiones:
 
 * Versión low cost (basada en Arduino y con caja de metacrilato, madera...)
 * Versión pro (con un autómata PLC + un HMI y caja de chapa plegada en acero inoxidable)
 
+En la siguiente figura podemos ver una representación del dispositivo:
+
 ![Reespirator](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/Reespirator-2020-redesign.jpg "Reespirator")
 
 
 
 ## Primeros pasos
-Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesitas alguna aclaración abra un Issue y lo corregiremos en cuanto podamos. Si crees que puedes mejorar el diseño o el código envíanos un Pull request.
+*Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesitas alguna aclaración abra un Issue y lo corregiremos en cuanto podamos. Si crees que puedes mejorar el diseño, el código o que falta alguna cosas importante envíanos un Pull Request.*
 
 
 ## [Estructura básica](https://gitlab.com/reespirator/reespirator2020/-/blob/master/case/CASE.md)
-Reespirator 2020 consta de una [caja](https://gitlab.com/reespirator/reespirator2020/-/blob/master/case/CASE.md) diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
+La versión low-cost de Reespirator 2020 consta de una [caja](https://gitlab.com/reespirator/reespirator2020/-/blob/master/case/CASE.md) diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato, si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
 
-El [sistema neumático](https://gitlab.com/reespirator/reespirator2020/-/blob/master/neumatic/NEUMATIC.md) del Reespirator 2020 está basado en un sistema Jackson-Rees. Reespirator 2020 utiliza además una serie de válvulas, sensores de presión y caudal y tubuladuras para hacer llegar al aire a los pulmones del paciente.
 ## [Sistema neumático](https://gitlab.com/reespirator/reespirator2020/-/blob/master/neumatic/NEUMATIC.md)
+El [sistema neumático](https://gitlab.com/reespirator/reespirator2020/-/blob/master/neumatic/NEUMATIC.md) del Reespirator 2020 está basado en un sistema Jackson-Rees. Reespirator 2020 utiliza además una serie de válvulas, sensores de presión y caudal y tubuladuras para hacer llegar al aire a los pulmones del paciente.
 
 ## [Mecánica](https://gitlab.com/reespirator/reespirator2020/-/blob/master/mechanic/MECHANIC.md)
 El [sistema mecánico](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/mechanic/MECHANIC.md) pretende realizar los movimientos necesarios para realizar las maniobras de inspiración y espiración forzada del paciente mediante elementos mecánicos sustituyendo al personal humano que utilizaría el sistema de ventilación.
@@ -49,10 +51,10 @@ Además de la electrónica de control se emplea una electrónica adicional como 
 El sistema de control necesita ser programado con un [firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md) que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
 ## [Simulación](https://gitlab.com/reespirator/reespirator2020/-/blob/master/simulation/SIMULATION.md)
-En este apartado se consideran los fundamentos del sistema de control en lazo cerrado para los distintos modos de control que permite el Reespirator 2020 y que permiten la [simulación numérica](https://gitlab.com/reespirator/reespirator2020/-/blob/master/simulation/SIMULATION.md) del comportamiento del sistema.
+En este apartado se consideran los fundamentos del sistema de control en lazo cerrado para los distintos modos de control que permite el Reespirator 2020. Los modelos matemáticos que permiten la [simulación numérica](https://gitlab.com/reespirasistemator/reespirator2020/-/blob/master/simulation/SIMULATION.md) del comportamiento del sistema corresponden a la información de este apartado.
 
 ## [Manual de usuario](https://gitlab.com/reespirator/reespirator2020/-/blob/master/MANUAL.md)
-El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento del paciente.
+El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento de un paciente.
 
 ## Historia y principales cambios de esta versión
 
@@ -65,8 +67,5 @@ En esta nueva versión se incluyen principalmente los siguientes cambios:
  - Establecimiento y documentación de una interfaz de comunicación serie que permite la utilización de sistemas (en adelante llamados Display+) de visualización, control y conectividad, que pueden ser utilizados como accesorios para aportar mejor usabilidad al sistema.
  - Se trabaja para estandarizar y popularizar los sensores y electro-válvulas para utilizar partes (comerciales o diseñadas) posibles de conseguir con la situación de emergencia actual y a precios accesibles.
  - Posibilidad de usar diferentes interfaces de usuario.
- - Opción de utilizar un microcontrolador tipo Arduino o un autómata PLC.
+ - Opción de utilizar un microcontrolador tipo Arduino o similar o bien un autómata PLC.
 
-## Repositorio temporal de trabajo para el código de Reespirator2020
-
-El siguiente repositorio se está utilizando como fork de trabajo para transformar el código de Respirator 23 (o 24) v3 de Reesistencia Team (cuyo código se denominó 'batalla') en el código estable que se usará en Respirator 2020 de arduino, cuyo código se denominó  ['retaguardia'](https://gitlab.com/reespirator-arduino).
