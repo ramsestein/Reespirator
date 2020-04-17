@@ -1,10 +1,10 @@
 ## Sistema neumático
 Basado en un sistema [Jackson-Rees](https://en.wikipedia.org/wiki/Breathing_circuit), **Reespirator** es un respirador que además del mencionado sistema médico Jackson-Rees utiliza una serie de elementos neumáticos utilizados para entubar al paciente y para controlar sus flujos de respiración inspiratorios y espiratorios.
 
-![Sistema Jakson-Rees](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/image005.png "Sistema Jackson-Rees")
+![Sistema Jakson-Rees](https://gitlab.com/reespirator/reespirator20220/-/raw/master/images/neumatic/Jackson-Rees.png "Sistema Jackson-Rees")
 
 
-![Esquema neumático](https://gitlab.com/reesistencia/reespirator-doc/-/raw/master/images/neumatic/neumatic.png "Esquema neumático")
+![Esquema neumático](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/neumatic/neumatic.png "Esquema neumático")
 
 El circuito neumático completo está compuesto por tres secciones:
 * Circuito de inspiración, resaltado en rojo en el diagrama
