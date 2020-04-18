@@ -18,7 +18,7 @@ La parte mecánica consta de:
 
 * Además, dispone de una [cuna](https://gitlab.com/reespirator/reespirator2020/-/blob/master/files/stl/cuna.stl "Cuna impresa en 3D para alojar el balón del Jackson-Rees") impresa en 3D donde se aloja el balón respirador de Jackson Rees.
 
-![Cuna para el Jackson-Rees](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/cut/cuna_v1.png "Cuna para el Jackson-Rees")
+![Cuna para el Jackson-Rees](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/stl/cuna_v1.png "Cuna para el Jackson-Rees")
 
 * El sistema utiiza también una [pala o empujador](https://gitlab.com/reespirator/reespirator2020/-/blob/master/files/stl/empujador_v3.stl "Cuna impresa en 3D para alojar el balón del Jackson-Rees") impresa en 3D que empuja el balón respirador para insuflar el aire al paciente. 
 
