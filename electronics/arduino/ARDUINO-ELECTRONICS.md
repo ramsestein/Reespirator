@@ -13,13 +13,13 @@ Actualmente, se está trabajando el diseño de un PCB específico que integre la
 
 ## Diagrama de Bloques del Sistema ##
 En la siguiente figura se muestra de forma genérica el diagrama de bloques funcionales y elementos electrónicos del sistema:
-![Diagrama de bloques](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/diagrama-de-bloques.jpg "Diagrama de bloques")
+![Diagrama de bloques](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/electronics/diagrama-de-bloques.jpg "Diagrama de bloques")
 
 Según este esquema se puede observar que el sistema electrónico está compuesto por los siguientes bloques:
 
 ## Microcontrolador: 
 Se ha empleado un Arduino Mega 2560 Rev3
-![Arduino Mega](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/Arduino-mega.jpg "Arduino Mega")
+![Arduino Mega](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/Arduino-mega.jpg "Arduino Mega")
 
 ## Etapa de alimentación:
 Encargada de suministrar la energía necesaria para que todo el equipo funcione, está formada por los siguientes elementos:
@@ -35,7 +35,7 @@ Permite la interacción entre el sistema y el usuario, mostrando la información
 1. Interfaz de usuario básica: esta interfaz de usuario es la que se encuentra integrada en el diseño de la placa de la electrónica principal y que permitiría visualizar los parámetros básicos en un display sencillo (LCD 20x4), así como interactuar con el sistema.
 2. Interfaz de usuario adicional, también denominada *Display+*: esta interfaz ajena a la placa principal, se comunicará con ésta para mostrar las gráficas o datos del sistema, de modo que el usuario final puede disponer de una interfaz de representación o visualización más completa. 
 
-![Posibles Interfaces](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/interfaz_arduino_hm.png "Posibles Interfaces")
+![Posibles Interfaces](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/interfaz_arduino_hm.png "Posibles Interfaces")
 
 Un ejemplo de este último sistema es con el que se han realizado las pruebas y que ha estado constituido por los siguientes elementos.
 
@@ -49,11 +49,11 @@ Un ejemplo de este último sistema es con el que se han realizado las pruebas y 
 
 * Se utilizarán motores NEMA, concretamente NEMA 24 que si bien no son tan comunes como los NEMA 23 dan un par motor suficiente. En los prototipos hemos utilizado motores de 4 Newton metros. En cualquier caso el uso de otro tipo de motores debe garantizar la suficiente presión sobre el globo del Jackson-Rees para producir el suficiente flujo ventilatorio. (Se hicieron pruebas con nema 17 y no daban sufiente par motor, seguramente algunos nema 23 puedan ser suficiente).
 
-![Nema 24](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Nema24.jpg "Motor Nema 24")
+![Nema 24](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/electronics/Nema24.jpg "Motor Nema 24")
 
 * Los motores NEMA se controlarán con un driver para motores paso a paso que proporcione la intensidad suficiente para comandar el motor elegido. El modelo utilizado en el prototipo está en el siguiente esquemma, el ZDM-2HA865. Se ha elegido este modelo ya que puede controlar tanto el NEMA24 como motores más pequeños sin necesidad de cambiar todo el hardware.
 
-![Esquema de conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/motor-driver.png "Esquema de conexión del driver y el motor paso a paso")
+![Esquema de conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/electronics/motor-driver.png "Esquema de conexión del driver y el motor paso a paso")
 
 * Para monitorizar la posición inicial del sistema, se utilizará un sensor de efecto hall o un simple final de carrera, (aunque también se ha considerado la opción de un segundo sensor para evitar problemas).
 
@@ -61,7 +61,7 @@ Un ejemplo de este último sistema es con el que se han realizado las pruebas y 
 
 * Sensor de caudal Sensirion SFM3300-AW para la medición del caudal en el espacio muerto del sistema de ventilación. Al ser una pieza que estará en contacto con el circuito de inspiración del paciente, se emplea un sensor homologado para aplicaciones médicas. (Si este modelo no estuviera disponible se pueden buscar sustitutos y con pequeñas modificaciones del código se podrían utilizar igualmente).
 
-![Caudalímetro](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/SFM3200-AW_t.webp "Caudalímetro")
+![Caudalímetro](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/electronics/SFM3200-AW_t.webp "Caudalímetro")
 
 
 * Sensor de presión diferencial para la diferencia de presión que existe entre el circuito inspiratorio y la presión ambiental. Se ha empleado el modelo ABPLANT001PG2A5 de Honeywell, que está homologado para aplicaciones médicas. (En versiones previas utilizamos 2 BME280 conectados por SPI). 
@@ -79,7 +79,3 @@ En la tabla siguiente podemos ver el pinout utilizado en el prototipo:
 | PIN_SOLENOID          | 39 |
 | PIN_RELAY             | 25 | 
 
-
-## Diseño de la Electrónica Principal ##
-
-El diseño electrónico de la placa principal, se ha dividido en diferentes secciones atendiendo a las especificaciones y requerimientos hardware indicados anteriormente en el [Repositorio](https://gitlab.com/reesistencia/reespirator-hardware "Repositorio Hardware"). Para acceder a una descripción de cada una de estas partes, seguir el siguiente enlace.
