@@ -47,14 +47,14 @@ El [sistema mecánico](https://gitlab.com/reespirator/reespirator-doc/-/blob/mas
 La [electrónica](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/electronics/ELECTRONICS.md) de control gestiona el movimiento del motor y los sensores que permiten realizar un control de lazo cerrado automatizado del sistema.
 Además de la electrónica de control se emplea una electrónica adicional como interfaz de usuario que permite monitorizar diferentes señales del respirador y modificar en tiempo real diferentes configuraciones del mismo.
 
-## [Firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md)
-El sistema de control necesita ser programado con un [firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/FIRMWARE.md) que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
+## [Firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/firmware/FIRMWARE.md)
+El sistema de control necesita ser programado con un [firmware](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/firmware/FIRMWARE.md) que permita hacer funcionar el dispositivo. Dicho programa se ha realizado conforme a las especificaciones de los especialistas médicos para realizar las funciones para las que el dispositivo fue diseñado.
 
 ## [Simulación](https://gitlab.com/reespirator/reespirator2020/-/blob/master/simulation/SIMULATION.md)
 En este apartado se consideran los fundamentos del sistema de control en lazo cerrado para los distintos modos de control que permite el Reespirator 2020. Los modelos matemáticos que permiten la [simulación numérica](https://gitlab.com/reespirasistemator/reespirator2020/-/blob/master/simulation/SIMULATION.md) del comportamiento del sistema corresponden a la información de este apartado.
 
-## [Manual de usuario](https://gitlab.com/reespirator/reespirator2020/-/blob/master/MANUAL.md)
-El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento de un paciente.
+## [Manual de usuario](https://gitlab.com/reespirator/reespirator2020/-/blob/master/manual/MANUAL.md)
+El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/manual/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento de un paciente.
 
 ## Historia y principales cambios de esta versión
 
