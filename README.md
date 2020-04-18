@@ -31,7 +31,7 @@ En la siguiente figura podemos ver una representación del dispositivo:
 
 
 ## Primeros pasos
-*Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesitas alguna aclaración abra un Issue y lo corregiremos en cuanto podamos. Si crees que puedes mejorar el diseño, el código o que falta alguna cosas importante envíanos un Pull Request.*
+**Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesita alguna aclaración abra un Issue y lo corregiremos en cuanto podamos. Si cree que puede mejorar el diseño, el código o que falta alguna cosa importante envíenos un Pull Request.**
 
 
 ## [Estructura básica](https://gitlab.com/reespirator/reespirator2020/-/blob/master/case/CASE.md)
