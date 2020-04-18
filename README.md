@@ -33,6 +33,8 @@ En la siguiente figura podemos ver una representación del dispositivo:
 ## Primeros pasos
 **Antes de montar un respirador lea toda la documentación posible e infórmese bien, si necesita alguna aclaración abra un Issue y lo corregiremos en cuanto podamos. Si cree que puede mejorar el diseño, el código o que falta alguna cosa importante envíenos un Pull Request.**
 
+## [Información médica básica del dispositivo Reespirator 2020](https://gitlab.com/reespirator/reespirator2020/-/blob/master/medical/MEDICAL.md)
+El dispositivo se está diseñando para intentar cumplir las siguientes [especificaciones clínicas](https://foro.coronavirusmakers.org/index.php?p=/discussion/44/especificaciones-clinicas-de-un-respirador-util-en-esta-crisis#latest). Los dispositivos que estamos prototipando podrán funcionar en diferentes modos ventilatorios. En el siguiente enlace tendrás acceso a [Información médica básica sobre el dispositivo Reespirator 2020](https://gitlab.com/reespirator/reespirator2020/-/blob/master/medical/MEDICAL.md)
 
 ## [Estructura básica](https://gitlab.com/reespirator/reespirator2020/-/blob/master/case/CASE.md)
 La versión low-cost de Reespirator 2020 consta de una [caja](https://gitlab.com/reespirator/reespirator2020/-/blob/master/case/CASE.md) diseñada para fabricarse mediante corte láser que contiene casi todos elementos del respirador en su interior. En el prototipo actual las piezas del prototipo se han diseñado para su corte por láser en metacrilato, si bien la imagen anterior corresponde a la nueva evolución que podrá fabricarse también con chapa plegada.
