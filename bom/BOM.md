@@ -4,5 +4,5 @@ La lista de materiales para construir un Reespirator 2020 es cuando menos compli
 
 Según el modelo que se quiera construir la lista de materiales cambia.
 
-* [Lista de materiales para modelos low-cost](https://gitlab.com/reespirator/reespirator2020/-/blob/master/bom/BOM-Arduino.md "Lista de materiales para modelos low-cost") 
+* [Lista de materiales para modelos low-cost](https://gitlab.com/reespirator/reespirator2020/-/blob/master/bom/BOM-ARDUINO.md "Lista de materiales para modelos low-cost") 
 * [Lista de materiales para modelos pro](https://gitlab.com/reespirator/reespirator2020/-/blob/master/bom/BOM-PLC.md "Lista de materiales para modelos pro]") 
