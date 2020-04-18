@@ -53,6 +53,9 @@ El sistema de control necesita ser programado con un [firmware](https://gitlab.c
 ## [Simulación](https://gitlab.com/reespirator/reespirator2020/-/blob/master/simulation/SIMULATION.md)
 En este apartado se consideran los fundamentos del sistema de control en lazo cerrado para los distintos modos de control que permite el Reespirator 2020. Los modelos matemáticos que permiten la [simulación numérica](https://gitlab.com/reespirasistemator/reespirator2020/-/blob/master/simulation/SIMULATION.md) del comportamiento del sistema corresponden a la información de este apartado.
 
+## [Lista de materiales](https://gitlab.com/reespirator/reespirator2020/-/blob/master/bom/BOM.md)
+La [lista de materiales, (BOM o Bill of materials)](https://gitlab.com/reespirator/reespirator2020/-/blob/master/bom/BOM.md) para construir un Reespirator 2020 es cuando menos complicada, incluye elementos como metacrilato, madera, MDF o chapa para la caja, sistmeas electrónicos como un Arduino Mega o un autómata PLC, y otros componentes, pero también elementos mecánicos y otros incluso impresos en 3D; pero sobre todo requiere también de la utilización de sistemas médicos tales como tubuladuras y un sistema ventilatorio Jackson-Rees.
+
 ## [Manual de usuario](https://gitlab.com/reespirator/reespirator2020/-/blob/master/manual/MANUAL.md)
 El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/manual/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento de un paciente.
 
