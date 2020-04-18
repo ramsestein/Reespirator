@@ -1,3 +1,7 @@
+## ¿Qué eson los respiradores y para qué sirven?
+
+En el siguiente enlace la Biblioteca Nacional de Medicina de EE.UU. nos da una descripción sencilla de [¿qué son los respiradores?](https://medlineplus.gov/spanish/ency/patientinstructions/000458.htm "¿Qué son los respiradores")
+
 ## Información médica básica del dispositivo Reespirator 2020
 
 El dispositivo se está diseñando para intentar cumplir las siguientes [especificaciones clínicas](https://foro.coronavirusmakers.org/index.php?p=/discussion/44/especificaciones-clinicas-de-un-respirador-util-en-esta-crisis#latest)
