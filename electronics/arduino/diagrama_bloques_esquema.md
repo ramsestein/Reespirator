@@ -4,7 +4,7 @@ La electrónica principal para la versión de Arduino se basa en el desarrollo d
 
 Para aclarar cada una de las partes de las que consta esta placa, se desglosará el esquemático en los siguientes bloques que se exponen a continuación:
 
-![Diagrama Bloques Esquema Electrónico](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/diagrama_bloques_esquema.png "Diagrama de Bloques de la Electrónica")
+![Diagrama Bloques Esquema Electrónico](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/electronics/diagrama_bloques_esquema.png "Diagrama de Bloques de la Electrónica")
 
 [- Alimentación.](https://gitlab.com/reespirator/reespirator2020/-/blob/master/electronics/arduino/alimentacion_esquema.md "Alimentacion Esquema")
 
