@@ -16,4 +16,6 @@ Por eso está prevista la utilización de uno o varios encoder y algunos botones
 
 En los siguientes apartados del presente documento se muestran en detalle las opciones de operativa de Reespirator 2020 para cada una de las dos versiones:
 
+* [Manual de usuario del modelo Arduino](https://gitlab.com/reespirator/reespirator2020/-/blob/master/manual/MANUAL-ARDUINO.md "Manual de Reespirator 2020 - modelo Arduino")
 
+* [Manual de usario del modelo con PLC Siemens](https://gitlab.com/reespirator/reespirator2020/-/blob/master/manual/MANUAL-PLC.md "Manual de Reespirator 2020 - modelo PLC")
