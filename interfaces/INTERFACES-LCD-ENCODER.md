@@ -6,7 +6,10 @@ El primer prototipo incluía simplemente un Arduino y una simple pantalla LCD y 
 - una pantalla LCD de 20x4
 - un encoder
 - 4 pulsadores
+- un zumbador
 
 Los médicos consideraron que si bien podría ser suficiente, era más conveniente incluir una pantalla gráfica para representar las señales producidas por el respirador. 
+
+![Configuración LCD+Encoder+Pulsadores](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/interfaz_arduino_hmi.png "Configuración LCD+Encoder+Pulsadores")
 
 >La versión con pantalla LCD, encoder y pulsadores se documenta aquí para aquellos lugares donde no se puedan implementar las soluciones gráficas, y además utilizando un ordenador es posible visualizar las gráficas y se puede utilizar igualmente esta configuración básica.

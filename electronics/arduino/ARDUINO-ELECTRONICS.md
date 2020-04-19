@@ -35,7 +35,7 @@ Permite la interacción entre el sistema y el usuario, mostrando la información
 1. Interfaz de usuario básica: esta interfaz de usuario es la que se encuentra integrada en el diseño de la placa de la electrónica principal y que permitiría visualizar los parámetros básicos en un display sencillo (LCD 20x4), así como interactuar con el sistema.
 2. Interfaz de usuario adicional, también denominada *Display+*: esta interfaz ajena a la placa principal, se comunicará con ésta para mostrar las gráficas o datos del sistema, de modo que el usuario final puede disponer de una interfaz de representación o visualización más completa. 
 
-![Posibles Interfaces](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/interfaz_arduino_hm.png "Posibles Interfaces")
+![Posibles Interfaces](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/hmi/interfaz_arduino_hmi.png "Posibles Interfaces")
 
 Un ejemplo de este último sistema es con el que se han realizado las pruebas y que ha estado constituido por los siguientes elementos.
 
