@@ -10,9 +10,7 @@ Un posible diagrama de bloques de la fuente de alimentación seleccionada es la 
 
 ![Diagrama Bloques Fuente Alimentación](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/power_suply_schema.png "Diagrama Bloques Fuente Alimentación")
 
-Existen muchas alternativas en el mercado, por lo que atendiendo a la disponibilidad y coste, se podrá optar por una u otra.
-
-Dicha fuente es la que alimentará entre otras partes del sistema a la placa de circuito impreso que se ha desarrollado. 
+Existen muchas alternativas en el mercado, por lo que atendiendo a la disponibilidad y coste, se podrá optar por una u otra. Dicha fuente es la que alimentará entre otras partes del sistema a la placa de circuito impreso que se ha desarrollado. 
 
 ## Esquema del circuito electrónico de alimentación. ##
 
