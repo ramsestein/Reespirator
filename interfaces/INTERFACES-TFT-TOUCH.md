@@ -9,3 +9,5 @@ Para utilizar una Raspberry Pi no debería ser muy diferente que con BeagleBone,
 En el siguiente enlace se describe por ejemplo como instalar Qt5: https://wiki.qt.io/Raspberry_Pi_Beginners_Guide/es 
 
 > John Gamarra comenta, que para que funcione en una RPi, no funciona con la instalacion manual, ha tenido que actualizar una libreria PyQt5 a 5.14.2 pero despues de un tiempo, la instalacion se cuelga en preparing wheel metadata, por lo que debo correr la interfaz por comando...
+
+Desde el siguiente enlace se puede descargar el [Manual de usuario del interfaz táctil usado en el prototipo original](https://gitlab.com/reespirator/reespirator2020/-/raw/master/files/pdf/Manual-Usuario-Reespirator-UI.pdf "Manual de usuario del interfaz táctil").
