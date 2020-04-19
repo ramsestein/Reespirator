@@ -79,3 +79,6 @@ En la tabla siguiente podemos ver el pinout utilizado en el prototipo:
 | PIN_SOLENOID          | 39 |
 | PIN_RELAY             | 25 | 
 
+
+A continuación se puede muestra el pinout del Arduino con todos los componentes, sensores, alarma, actuadores, protocolos de comunicación...etc.
+![PinOut MCU](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/pinout_mcu.png "Pin Out de la electrónica con el Arduino")
