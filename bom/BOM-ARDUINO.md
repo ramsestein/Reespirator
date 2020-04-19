@@ -21,7 +21,8 @@ Para la parte mecánica es necesario cortar algunas piezas como las de la caja p
 * Electrónica
 
 Para montar la electrónica low-cost partiremos de la utilización de un Arduino Mega 2560 al que conectaremos actuadores y sensores. 
-Estos pueden conectarse directamente con los cables directamente al Arduino aunque se recomienda encarecidamente su soldadura o emplear una shield o protoboard que garantice buenas conexiones eléctricas.
-Se ha diseñado una PCB para aquellos casos en los que esta pueda obtenerse, esta simplifica enormemente el montaje del dispositivo y mejora la fiabilidad de la electrónica.
+Estos pueden conectarse directamente con los cables al Arduino aunque se recomienda encarecidamente su soldadura o emplear una shield o protoboard que garantice buenas conexiones eléctricas.
+Se ha diseñado una PCB para aquellos casos en los que esta pueda obtenerse, esta simplifica enormemente el montaje del dispositivo y mejora la fiabilidad de la electrónica. La pcb diseñada contará en su gran mayoría con componentes de montaje superficial SMD, 
+por lo que se podrá encargar su montaje, directamente a la empresa que realice la fabricación de las placas de circuito impreso. En este sentido se ha realizado un gran trabajo de diseño, para asegurar la placa ante incompatibilidades electromagnéticas.
 
 
