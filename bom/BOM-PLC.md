@@ -3,13 +3,18 @@
 La lista de materiales para construir un Reespirator 2020 modelo PLC incluye los siguientes componentes:
 
 * Estructura
+- Caja de chapa plegada
 * Sistema neumático
+- Sistema Jackson-Rees
+- Tubuladura
 * Mecánica
 - Leva
 - Balancín
 - Rodamiento 608Z
 - Acople para el motor
 - Tornillería
+- Cuna para el balón impresa en 3D
+- Pala/Empujador impreso en 3D
 * Electrónica
 - Toma de alimentación IEC
 - Fuente de alimentación 24V
@@ -20,4 +25,3 @@ La lista de materiales para construir un Reespirator 2020 modelo PLC incluye los
 - Sensor inductivo cilíndrico AES/AP-3A
 - Caudalímetro
 - Sensor de presión diferencial
-
