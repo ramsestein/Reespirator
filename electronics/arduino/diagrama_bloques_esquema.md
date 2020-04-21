@@ -19,7 +19,7 @@ Para aclarar cada una de las partes de las que consta esta placa, se desglosará
 [- MCU: Arduino Mega.](https://gitlab.com/reespirator/reespirator2020/-/blob/master/electronics/arduino/mcu_esquema.md "MCU Conexiones")
 
 
-Representación Tridimensional de la PCB
+## Representación Tridimensional de la PCB ##
 
 Como resultado de este trabajo se obtiene la siguiente PCB en la que se pude ver una representación tridimensinal:
 
