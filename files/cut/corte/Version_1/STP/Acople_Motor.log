@@ -1,0 +1,23 @@
+
+-------------------Versión del conversor de importación de STEP AP203/AP214 ----------------------
+
+
+               Versión 10.04.00.46 para MicroStation V8.
+
+-------------------Registro de importación de STEP AP203/AP214----------------------
+
+
+    Archivo STEP AP203/AP214:  C:\Users\disenator\CloudStation\TRANSITORIOS\reespirator2020\files\cut\corte\Version_1\STP\Acople_Motor.stp
+        Archivo de diseño:  C:\Users\disenator\CloudStation\TRANSITORIOS\RESPIRATOR\V4\PRUEBAS.dgn
+               Fecha: 04/18/2020
+Hora: 11:21:49
+
+------------------------------------------------------------------------
+
+ 
+ funcName:read_P203_Model # EntityId:-1 # igonal entity types:
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ funcName:stepUtil_sdaiErrorHandler # EntityId:-1 # sdaiMO_NEXS
+ Ending time 11:21:50
+
+
