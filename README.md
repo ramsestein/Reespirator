@@ -61,6 +61,12 @@ La [lista de materiales, (BOM o Bill of materials)](https://gitlab.com/reespirat
 ## [Manual de usuario](https://gitlab.com/reespirator/reespirator2020/-/blob/master/manual/MANUAL.md)
 El dispositivo Reespirator 2020 es un dispositivo médico y su uso sólo debe realizarse por personal especializado. Ofrecemos aquí un breve [manual de uso](https://gitlab.com/reespirator/reespirator-doc/-/blob/master/manual/MANUAL.md) del mismo; pero es el personal sanitario el que sabe los parámetros que deben utilizarse para el tratamiento de un paciente.
 
+## [Vídeos]
+En el siguiente enlace podemos ver algunos vídeos con detalles del Reespirator 2020 en funcionamiento:
+
+* https://www.youtube.com/channel/UC9xr1HbWGLBjd4ADTvGcOnw
+
+
 ## Historia y principales cambios de esta versión
 
 El proyecto Reespirator2020 toma como punto de partida el proyecto Reespirator 23 (o 24) v3 de **Reesistencia Team** a partir del cual realizamos un fork, el repositorio original está en [https://gitlab.com/reesistencia](https://gitlab.com/reesistencia).
