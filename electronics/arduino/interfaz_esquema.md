@@ -12,7 +12,7 @@ Como se indicó en la introducción a la electrónica del respirador, este dispo
 
 En la siguiente imagen se puede ver el esquema de esta parte del sistema.
 
-![Esquema de la Interfaz](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/interfaz_equema.png "Esquema de la Interfaz")
+![Esquema de la Interfaz](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/interfaz_esquema.png "Esquema de la Interfaz")
 
 Como se puede comprobar, se dispone de un LCD con backlight el cual se encuentra conectado en paralelo con el Arduino Mega, disponiendo de un potenciómetro para regular el contraste.
 
