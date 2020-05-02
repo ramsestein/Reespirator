@@ -82,3 +82,7 @@ En la tabla siguiente podemos ver el pinout utilizado en el prototipo:
 
 A continuación se puede muestra el pinout del Arduino con todos los componentes, sensores, alarma, actuadores, protocolos de comunicación...etc.
 ![PinOut MCU](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/pinout_mcu.png "Pin Out de la electrónica con el Arduino")
+
+El diagrama de bloques de la placa de circuito impreso diseñada para la versión del arduino, está disponible en el siguiente enlace:
+
+**[Diagrama de Bloques](https://gitlab.com/reespirator/reespirator2020/-/blob/master/electronics/arduino/diagrama_bloques_esquema.md "Diagrama de Bloques")**
