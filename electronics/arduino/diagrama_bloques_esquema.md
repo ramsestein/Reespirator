@@ -27,3 +27,8 @@ Como resultado de este trabajo se obtiene la siguiente PCB en la que se pude ver
 
 ![Representación 3D Parte Inferior](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/esquema3DB.png "Representación 3D de la Electrónica. Parte Inferior")
 
+## Diseño PCB ##
+
+![Diseño PCB](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/pcb00.png "Representación de pads")
+
+![Diseño PCB](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/pcb01.png "PCB Completa")
