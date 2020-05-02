@@ -29,3 +29,7 @@ Por último, estaría el control de las electroválvulas, en este caso se pueden
 La salida del L293, que irá conectada a las electroválvulas está protegida una vez más mediante ferritas y diodos TVS unidireccionales, 
 
 ![Esquema Actuadores](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/actuadores_esquema4.png "Actuadores")
+
+El diagrama de bloques de la placa de circuito impreso diseñada para la versión del arduino, está disponible en el siguiente enlace:
+
+**[Diagrama de Bloques](https://gitlab.com/reespirator/reespirator2020/-/blob/master/electronics/arduino/diagrama_bloques_esquema.md "Diagrama de Bloques")**
