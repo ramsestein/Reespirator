@@ -23,7 +23,7 @@ Para aclarar cada una de las partes de las que consta esta placa, se desglosará
 
 Como resultado de este trabajo se obtiene la siguiente PCB en la que se pude ver una representación tridimensinal:
 
-![Representación 3D Parte Superior](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/electronics/esquema3DF.png "Representación 3D de la Electrónica. Parte superior")
+![Representación 3D Parte Superior](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/esquema3DF.png "Representación 3D de la Electrónica. Parte superior")
 
-![Representación 3D Parte Inferior](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/electronics/esquema3DB.png "Representación 3D de la Electrónica. Parte Inferior")
+![Representación 3D Parte Inferior](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/esquema3DB.png "Representación 3D de la Electrónica. Parte Inferior")
 
