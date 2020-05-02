@@ -29,3 +29,7 @@ Todo esto permite tener una alimentación estable en la placa de +24V y +5V, pro
 
 En esta parte también se puede ver una red de condensadores que son de desacoplo y que estarán ubicados lo más próximos posible a la alimentación de los circuitos integrados. 
 Y por último también se pueden observar algunos de los conectores  de alimentación, que estarán disponibles para conectar periféricos, todos ellos protegidos por diodos unidireccionales TVS (Transient Voltage Suppressors).
+
+El diagrama de bloques de la placa de circuito impreso diseñada para la versión del arduino, está disponible en el siguiente enlace:
+
+**[Diagrama de Bloques](https://gitlab.com/reespirator/reespirator2020/-/blob/master/electronics/arduino/diagrama_bloques_esquema.md "Diagrama de Bloques")**
