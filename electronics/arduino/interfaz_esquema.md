@@ -21,3 +21,7 @@ En cuanto a los pulsadores, se dispone de 4 pulsadores que irán cableados a la 
 Por último, esta parte dispone de un **enconder rotatorio con switch**, el cual permitirá hacer selección de configuraciones por parte del usuario de una forma sencilla. 
 
 ![Encoder](https://gitlab.com/reespirator/reespirator2020/-/raw/master/images/arduino/encoder.png "Encoder")
+
+El diagrama de bloques de la placa de circuito impreso diseñada para la versión del arduino, está disponible en el siguiente enlace:
+
+**[Diagrama de Bloques](https://gitlab.com/reespirator/reespirator2020/-/blob/master/electronics/arduino/diagrama_bloques_esquema.md "Diagrama de Bloques")**
