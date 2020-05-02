@@ -12,3 +12,7 @@ En la siguiente imagen se puede ver el esquema de conexión empleado en el siste
 Como se puede apreciar en la imagen, se dispone por un lado del microcontrolador con su pinout, donde se han señalado en **negrita**, aquellos pines fijos que no podían reubicarse en el diseño de la pcb, y por otro lado, existe un bloque denominado J11 consistente en un conector para facilitar la depuración del sistema mediante JTAG.
 
 A partir del microcontrolador, se tiene toda la información proveniente de sensores y por lo tanto permitirá actuar sobre los distintos elementos como alarma, buzzer, válvulas..etc.
+
+El diagrama de bloques de la placa de circuito impreso diseñada para la versión del arduino, está disponible en el siguiente enlace:
+
+**[Diagrama de Bloques](https://gitlab.com/reespirator/reespirator2020/-/blob/master/electronics/arduino/diagrama_bloques_esquema.md "Diagrama de Bloques")**
