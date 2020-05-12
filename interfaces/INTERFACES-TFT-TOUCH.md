@@ -5,8 +5,7 @@ Mediante comunicación serie, el Arduino Mega del sistema de control envía y re
 
 Actualmente (19/04/2020), la única combinación que está completamente funcional corresponde al uso de la BeagleBone con el último firmware de Arduino para Reespirator 23, ambos están disponibles en los repositorios de los siguientes enlaces: https://gitlab.com/reesistencia
 
-Para utilizar una Raspberry Pi no debería ser muy diferente que con BeagleBone, es necesario configurar el Python que en las distribuciones de Raspbian suelen estar incluidas e instalar algunas librerías como PyQt pero el software de visualización/interacción debería funcionar igualmente.
-En el siguiente enlace se describe por ejemplo como instalar Qt5: https://wiki.qt.io/Raspberry_Pi_Beginners_Guide/es 
+Para utilizar una Raspberry Pi no debería ser muy diferente que con BeagleBone, es necesario configurar el Python que en las distribuciones de Raspbian suelen estar incluidas e instalar algunas librerías como PyQt pero el software de visualización/interacción debería funcionar igualmente. En el siguiente enlace se describe por ejemplo como instalar Qt5: https://wiki.qt.io/Raspberry_Pi_Beginners_Guide/es 
 
 > John Gamarra comenta, que para que funcione en una RPi, no funciona con la instalacion manual, ha tenido que actualizar una libreria PyQt5 a 5.14.2 pero despues de un tiempo, la instalacion se cuelga en preparing wheel metadata, por lo que debo correr la interfaz por comando...
 
