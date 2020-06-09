@@ -28,6 +28,7 @@ El dispositivo está preparado para conectarse a la red eléctrica de 110-230V d
 ![Nema 24](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/Nema24.jpg "Motor Nema 24")
 
 * Los motores NEMA se controlarán con un driver HSS57. Se ha elegido este modelo ya que puede controlar tanto el NEMA24 como motores más pequeños sin necesidad de cambiar todo el hardware.
+En el repositorio está publicado también el driver para este modelo.
 
 ![Esquema de conexión](https://gitlab.com/reespirator/reespirator-doc/-/raw/master/images/motor-driver.png "Esquema de conexión del driver y el motor paso a paso")
 
